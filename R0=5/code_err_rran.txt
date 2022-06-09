@@ -1,0 +1,2 @@
+ABMrran.py:594: RuntimeWarning: invalid value encountered in double_scalars
+  Ar=(np.trace(e)-np.sum(np.dot(e,e)))/(1.-np.sum(np.dot(e,e)))

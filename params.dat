@@ -1,0 +1,10 @@
+{"jranini":15,
+"Nindiv":100000, 
+"Nsim":100,
+"fn0":0.0015,
+"tmax":200, 
+"ptvac":0.5,
+"pivac":0.8,
+"fstep":0.1}
+
+
